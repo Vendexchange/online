@@ -5896,7 +5896,8 @@ ul.flexbox {
 
 .vend-head:after {
   top: 0;
-  background: #3079ED url(../img/gb.png);
+  /*background: #3079ED url(../img/gb.png);*/
+  background: #1d0f48 url(../img/gb.png);
   transform: skewY(-11deg);
   height: 730px;
   transform-origin: 0;
