@@ -2,7 +2,7 @@ angular
 	.module('cqNgApp')
 	.component('timezoneDialog', {
 		controller: TimezoneDialog,
-		templateUrl: '/templates/timezone-dialog.html',
+		templateUrl: './templates/timezone-dialog.html',
 		controllerAs: 'timezoneDialog'
 	});
 

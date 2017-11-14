@@ -2,7 +2,7 @@ angular
 	.module('cqNgApp')
 	.component('cqNgUi', {
 		controller: CqNgUi,
-		templateUrl: '/templates/cq-ng-ui.html',
+		templateUrl: './templates/cq-ng-ui.html',
 		controllerAs: 'cqNgUi'
 	});
 
