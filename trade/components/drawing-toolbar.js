@@ -2,7 +2,7 @@ angular
 	.module('cqNgApp')
 	.component('drawingToolbar', {
 		controller: DrawingToolbar,
-		templateUrl: './templates/drawing-toolbar.html',
+		templateUrl: '../templates/drawing-toolbar.html',
 		controllerAs: 'drawingToolbar'
 	});
 

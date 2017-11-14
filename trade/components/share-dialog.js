@@ -1,6 +1,6 @@
 angular.module('cqNgApp').component('shareDialog', {
 	controller:ShareDialog,
-	templateUrl: './templates/share-dialog.html',
+	templateUrl: '../templates/share-dialog.html',
 	controllerAs:'shareDialog'
 });
 

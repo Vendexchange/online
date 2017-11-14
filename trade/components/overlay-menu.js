@@ -2,7 +2,7 @@ angular
 	.module('cqNgApp')
 	.component('overlayMenu', {
 		controller: OverlayMenu,
-		templateUrl: './templates/overlay-menu.html',
+		templateUrl: '../templates/overlay-menu.html',
 		controllerAs: 'overlayMenu'
 	});
 

@@ -2,7 +2,7 @@ angular
 	.module('cqNgApp')
 	.component('colorPicker', {
 		controller: ColorPicker,
-		templateUrl: './templates/colorpicker.html',
+		templateUrl: '../templates/colorpicker.html',
 		controllerAs: 'colorPicker'
 	});
 
