@@ -2,7 +2,7 @@ angular
 	.module('cqNgApp')
 	.component('themeDialog', {
 		controller: ThemeDialog,
-		templateUrl: '../templates/theme-dialog.html',
+		templateUrl: '/templates/theme-dialog.html',
 		controllerAs: 'themeDialog',
 		bindings: {
 			customName: '@'

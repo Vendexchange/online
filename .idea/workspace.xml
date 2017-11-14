@@ -2,8 +2,115 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="134a68bf-9319-4e23-8e61-9d184cb6de9c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trade.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/.editorconfig" afterPath="$PROJECT_DIR$/.editorconfig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/.eslintrc.yaml" afterPath="$PROJECT_DIR$/.eslintrc.yaml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/app.js" afterPath="$PROJECT_DIR$/app.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/bs-config.json" afterPath="$PROJECT_DIR$/bs-config.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/components/colorpicker.js" afterPath="$PROJECT_DIR$/components/colorpicker.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/components/cq-ng-chart.js" afterPath="$PROJECT_DIR$/components/cq-ng-chart.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/components/cq-ng-ui.js" afterPath="$PROJECT_DIR$/components/cq-ng-ui.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/components/drawing-toolbar.js" afterPath="$PROJECT_DIR$/components/drawing-toolbar.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/components/orderbook.js" afterPath="$PROJECT_DIR$/components/orderbook.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/components/overlay-menu.js" afterPath="$PROJECT_DIR$/components/overlay-menu.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/components/share-dialog.js" afterPath="$PROJECT_DIR$/components/share-dialog.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/components/study-dialog.js" afterPath="$PROJECT_DIR$/components/study-dialog.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/components/theme-dialog.js" afterPath="$PROJECT_DIR$/components/theme-dialog.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/components/timezone-dialog.js" afterPath="$PROJECT_DIR$/components/timezone-dialog.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/css/CIQ_Seed.css" afterPath="$PROJECT_DIR$/css/CIQ_Seed.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/css/img/ciq-timezone.svg" afterPath="$PROJECT_DIR$/css/img/ciq-timezone.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/css/img/closedhand.cur" afterPath="$PROJECT_DIR$/css/img/closedhand.cur" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/css/img/helicopter.png" afterPath="$PROJECT_DIR$/css/img/helicopter.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/css/img/hu.svg" afterPath="$PROJECT_DIR$/css/img/hu.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/css/img/loading-spin-white.svg" afterPath="$PROJECT_DIR$/css/img/loading-spin-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/css/img/loading-spin.svg" afterPath="$PROJECT_DIR$/css/img/loading-spin.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/css/img/stx-sprite-markers.svg" afterPath="$PROJECT_DIR$/css/img/stx-sprite-markers.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/css/img/stx-sprite-panels.png" afterPath="$PROJECT_DIR$/css/img/stx-sprite-panels.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/css/img/stx-sprite-panels.svg" afterPath="$PROJECT_DIR$/css/img/stx-sprite-panels.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/css/img/stx-sprite-ui.svg" afterPath="$PROJECT_DIR$/css/img/stx-sprite-ui.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/services/quote-feed.js" afterPath="$PROJECT_DIR$/services/quote-feed.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/templates/colorpicker.html" afterPath="$PROJECT_DIR$/templates/colorpicker.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/templates/cq-ng-chart.html" afterPath="$PROJECT_DIR$/templates/cq-ng-chart.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/templates/cq-ng-ui.html" afterPath="$PROJECT_DIR$/templates/cq-ng-ui.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/templates/drawing-toolbar.html" afterPath="$PROJECT_DIR$/templates/drawing-toolbar.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/templates/orderbook.html" afterPath="$PROJECT_DIR$/templates/orderbook.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/templates/overlay-menu.html" afterPath="$PROJECT_DIR$/templates/overlay-menu.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/templates/share-dialog.html" afterPath="$PROJECT_DIR$/templates/share-dialog.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/templates/study-dialog.html" afterPath="$PROJECT_DIR$/templates/study-dialog.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/templates/table_temp.html" afterPath="$PROJECT_DIR$/templates/table_temp.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/templates/theme-dialog.html" afterPath="$PROJECT_DIR$/templates/theme-dialog.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/templates/timezone-dialog.html" afterPath="$PROJECT_DIR$/templates/timezone-dialog.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/css/animate.min.css" afterPath="$PROJECT_DIR$/assets/css/animate.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/css/demo.css" afterPath="$PROJECT_DIR$/assets/css/demo.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/css/paper-dashboard.css" afterPath="$PROJECT_DIR$/assets/css/paper-dashboard.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/css/themify-icons.css" afterPath="$PROJECT_DIR$/assets/css/themify-icons.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/fonts/themify.eot" afterPath="$PROJECT_DIR$/assets/fonts/themify.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/fonts/themify.svg" afterPath="$PROJECT_DIR$/assets/fonts/themify.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/fonts/themify.ttf" afterPath="$PROJECT_DIR$/assets/fonts/themify.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/fonts/themify.woff" afterPath="$PROJECT_DIR$/assets/fonts/themify.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/img/apple-icon.png" afterPath="$PROJECT_DIR$/assets/img/apple-icon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/img/background.jpg" afterPath="$PROJECT_DIR$/assets/img/background.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/img/faces/face-0.jpg" afterPath="$PROJECT_DIR$/assets/img/faces/face-0.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/img/faces/face-1.jpg" afterPath="$PROJECT_DIR$/assets/img/faces/face-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/img/faces/face-2.jpg" afterPath="$PROJECT_DIR$/assets/img/faces/face-2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/img/faces/face-3.jpg" afterPath="$PROJECT_DIR$/assets/img/faces/face-3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/img/favicon.png" afterPath="$PROJECT_DIR$/www/assets/img/favicon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/img/new_logo.png" afterPath="$PROJECT_DIR$/assets/img/new_logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/img/tim_80x80.png" afterPath="$PROJECT_DIR$/assets/img/tim_80x80.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/js/bootstrap-checkbox-radio.js" afterPath="$PROJECT_DIR$/assets/js/bootstrap-checkbox-radio.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/js/bootstrap-notify.js" afterPath="$PROJECT_DIR$/assets/js/bootstrap-notify.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/js/chartist.min.js" afterPath="$PROJECT_DIR$/assets/js/chartist.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/js/demo.js" afterPath="$PROJECT_DIR$/assets/js/demo.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/js/jquery-1.10.2.js" afterPath="$PROJECT_DIR$/assets/js/jquery-1.10.2.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/js/paper-dashboard.js" afterPath="$PROJECT_DIR$/assets/js/paper-dashboard.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/sass/paper-dashboard.scss" afterPath="$PROJECT_DIR$/www/assets/sass/paper-dashboard.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/sass/paper/_alerts.scss" afterPath="$PROJECT_DIR$/www/assets/sass/paper/_alerts.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/sass/paper/_buttons.scss" afterPath="$PROJECT_DIR$/www/assets/sass/paper/_buttons.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/sass/paper/_cards.scss" afterPath="$PROJECT_DIR$/www/assets/sass/paper/_cards.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/sass/paper/_chartist.scss" afterPath="$PROJECT_DIR$/www/assets/sass/paper/_chartist.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/sass/paper/_checkbox-radio.scss" afterPath="$PROJECT_DIR$/www/assets/sass/paper/_checkbox-radio.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/sass/paper/_dropdown.scss" afterPath="$PROJECT_DIR$/www/assets/sass/paper/_dropdown.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/sass/paper/_footers.scss" afterPath="$PROJECT_DIR$/www/assets/sass/paper/_footers.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/sass/paper/_inputs.scss" afterPath="$PROJECT_DIR$/www/assets/sass/paper/_inputs.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/sass/paper/_misc.scss" afterPath="$PROJECT_DIR$/www/assets/sass/paper/_misc.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/sass/paper/_mixins.scss" afterPath="$PROJECT_DIR$/www/assets/sass/paper/_mixins.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/sass/paper/_navbars.scss" afterPath="$PROJECT_DIR$/www/assets/sass/paper/_navbars.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/sass/paper/_responsive.scss" afterPath="$PROJECT_DIR$/www/assets/sass/paper/_responsive.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/sass/paper/_sidebar-and-main-panel.scss" afterPath="$PROJECT_DIR$/www/assets/sass/paper/_sidebar-and-main-panel.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/sass/paper/_tables.scss" afterPath="$PROJECT_DIR$/www/assets/sass/paper/_tables.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/sass/paper/_typography.scss" afterPath="$PROJECT_DIR$/www/assets/sass/paper/_typography.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/sass/paper/_variables.scss" afterPath="$PROJECT_DIR$/www/assets/sass/paper/_variables.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/sass/paper/mixins/_buttons.scss" afterPath="$PROJECT_DIR$/www/assets/sass/paper/mixins/_buttons.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/sass/paper/mixins/_cards.scss" afterPath="$PROJECT_DIR$/www/assets/sass/paper/mixins/_cards.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/sass/paper/mixins/_chartist.scss" afterPath="$PROJECT_DIR$/www/assets/sass/paper/mixins/_chartist.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/sass/paper/mixins/_icons.scss" afterPath="$PROJECT_DIR$/www/assets/sass/paper/mixins/_icons.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/sass/paper/mixins/_inputs.scss" afterPath="$PROJECT_DIR$/www/assets/sass/paper/mixins/_inputs.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/sass/paper/mixins/_labels.scss" afterPath="$PROJECT_DIR$/www/assets/sass/paper/mixins/_labels.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/sass/paper/mixins/_navbars.scss" afterPath="$PROJECT_DIR$/www/assets/sass/paper/mixins/_navbars.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/sass/paper/mixins/_sidebar.scss" afterPath="$PROJECT_DIR$/www/assets/sass/paper/mixins/_sidebar.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/sass/paper/mixins/_tabs.scss" afterPath="$PROJECT_DIR$/www/assets/sass/paper/mixins/_tabs.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/sass/paper/mixins/_transparency.scss" afterPath="$PROJECT_DIR$/www/assets/sass/paper/mixins/_transparency.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/assets/sass/paper/mixins/_vendor-prefixes.scss" afterPath="$PROJECT_DIR$/www/assets/sass/paper/mixins/_vendor-prefixes.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/changelog.txt" afterPath="$PROJECT_DIR$/www/changelog.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/dashboard.html" afterPath="$PROJECT_DIR$/www/dashboard.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/documentation/css/documentation.css" afterPath="$PROJECT_DIR$/www/documentation/css/documentation.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/documentation/documentation.html" afterPath="$PROJECT_DIR$/www/documentation/documentation.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/icons.html" afterPath="$PROJECT_DIR$/www/icons.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/maps.html" afterPath="$PROJECT_DIR$/www/maps.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/notifications.html" afterPath="$PROJECT_DIR$/www/notifications.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/table.html" afterPath="$PROJECT_DIR$/www/table.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/template.html" afterPath="$PROJECT_DIR$/www/template.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/typography.html" afterPath="$PROJECT_DIR$/www/typography.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/upgrade.html" afterPath="$PROJECT_DIR$/www/upgrade.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/trade/www/user.html" afterPath="$PROJECT_DIR$/www/user.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trade/www/index.html" afterPath="$PROJECT_DIR$/trade/www/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,17 +121,114 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/trade/www/index.html">
+      <file leaf-file-name="colorpicker.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/colorpicker.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+            <state relative-caret-position="60">
+              <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cq-ng-chart.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/cq-ng-chart.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cq-ng-ui.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/cq-ng-ui.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="drawing-toolbar.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/drawing-toolbar.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="orderbook.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/orderbook.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="overlay-menu.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/overlay-menu.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="share-dialog.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/share-dialog.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="study-dialog.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/study-dialog.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="theme-dialog.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/theme-dialog.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="timezone-dialog.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/components/timezone-dialog.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -55,6 +259,18 @@
         <option value="$PROJECT_DIR$/trade/components/study-dialog.js" />
         <option value="$PROJECT_DIR$/trade/components/theme-dialog.js" />
         <option value="$PROJECT_DIR$/trade/www/index.html" />
+        <option value="$PROJECT_DIR$/assets/css/themify-icons.css" />
+        <option value="$PROJECT_DIR$/trade.html" />
+        <option value="$PROJECT_DIR$/components/colorpicker.js" />
+        <option value="$PROJECT_DIR$/components/cq-ng-chart.js" />
+        <option value="$PROJECT_DIR$/components/cq-ng-ui.js" />
+        <option value="$PROJECT_DIR$/components/drawing-toolbar.js" />
+        <option value="$PROJECT_DIR$/components/orderbook.js" />
+        <option value="$PROJECT_DIR$/components/overlay-menu.js" />
+        <option value="$PROJECT_DIR$/components/share-dialog.js" />
+        <option value="$PROJECT_DIR$/components/study-dialog.js" />
+        <option value="$PROJECT_DIR$/components/theme-dialog.js" />
+        <option value="$PROJECT_DIR$/components/timezone-dialog.js" />
       </list>
     </option>
   </component>
@@ -70,6 +286,9 @@
         <option name="mavenHome" value="Bundled (Maven 3)" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
@@ -101,6 +320,11 @@
               <item name="online" type="b2602c69:ProjectViewProjectNode" />
               <item name="online" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="online" type="b2602c69:ProjectViewProjectNode" />
+              <item name="online" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -122,11 +346,19 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
   </component>
-  <component name="PyConsoleOptionsProvider">
-    <option name="myPythonConsoleState">
-      <console-settings />
-    </option>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/js" />
+      <recent name="$PROJECT_DIR$/assets/img" />
+      <recent name="$PROJECT_DIR$/assets/fonts" />
+      <recent name="$PROJECT_DIR$/assets/css" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -238,12 +470,12 @@
       <updated>1509467170744</updated>
       <workItem from="1509467172242" duration="3809000" />
       <workItem from="1509482058959" duration="1153000" />
-      <workItem from="1510664899467" duration="3524000" />
+      <workItem from="1510664899467" duration="4772000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8486000" />
+    <option name="totallyTimeSpent" value="9734000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="800" extended-state="6" />
@@ -251,26 +483,26 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="SvgViewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SvgViewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33049646" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33049646" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -456,47 +688,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trade/components/timezone-dialog.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trade/components/cq-ng-chart.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2062">
-          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trade/components/cq-ng-ui.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trade/components/drawing-toolbar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trade/components/orderbook.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trade/app.js">
+    <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="38" lean-forward="true" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
@@ -504,50 +696,250 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trade/components/theme-dialog.js">
+    <entry file="file://$PROJECT_DIR$/assets/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trade/components/study-dialog.js">
+    <entry file="file://$PROJECT_DIR$/assets/css/animate.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trade/components/share-dialog.js">
+    <entry file="file://$PROJECT_DIR$/assets/css/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/paper-dashboard.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/fonts/themify.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/faces/face-0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/faces/face-2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/faces/face-3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/apple-icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/background.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/new_logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/tim_80x80.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/faces/face-1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/bootstrap-checkbox-radio.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/bootstrap-notify.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/chartist.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery-1.10.2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/paper-dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/themify-icons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trade/components/overlay-menu.js">
+    <entry file="file://$PROJECT_DIR$/trade.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="577" column="33" lean-forward="true" selection-start-line="577" selection-start-column="33" selection-end-line="577" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/colorpicker.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trade/components/colorpicker.js">
+    <entry file="file://$PROJECT_DIR$/components/cq-ng-chart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/cq-ng-ui.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="25" />
+          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trade/www/index.html">
+    <entry file="file://$PROJECT_DIR$/components/drawing-toolbar.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        <state relative-caret-position="60">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/orderbook.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/overlay-menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/share-dialog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/study-dialog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/theme-dialog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/timezone-dialog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
           <folding />
         </state>
       </provider>
