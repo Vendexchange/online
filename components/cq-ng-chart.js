@@ -6,7 +6,7 @@ angular
 			parent: '?^cqNgUi'
 		}, //children can gain access to parent with angular
 		controller: CqNgChart,
-		templateUrl: '/templates/cq-ng-chart.html',
+		templateUrl: './templates/cq-ng-chart.html',
 		controllerAs: 'cqNgChart', //we will reference this component elsewhere with this name
 		bindings: {
 			symbolInput: '@',

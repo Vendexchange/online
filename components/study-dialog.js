@@ -2,7 +2,7 @@ angular
 	.module('cqNgApp')
 	.component('studyDialog', {
 		controller: StudyDialog,
-		templateUrl: '/templates/study-dialog.html',
+		templateUrl: './templates/study-dialog.html',
 		controllerAs: 'studyDialog'
 	});
 

@@ -2,7 +2,7 @@ angular
 	.module('cqNgApp')
 	.component('orderBook', {
 		controller: DrawingOrderbook,
-		templateUrl: '/templates/orderbook.html',
+		templateUrl: './templates/orderbook.html',
 		controllerAs: 'drawingOrderbook'
 	});
 
